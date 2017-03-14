@@ -1,6 +1,5 @@
 # Dockalt
-
-**TODO: Add description**
+This is a toy version of Docker implemented in Elixir.
 
 ## Installation
 
@@ -16,4 +15,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/dockalt](https://hexdocs.pm/dockalt).
-
